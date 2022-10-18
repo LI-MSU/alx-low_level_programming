@@ -10,6 +10,8 @@ int main(void)
 *skdoksodk 
 */
 {
+  /*This one does its thing*/
+
 puts("\"Programming is like building a multilingual puzzle");
-return (0);
+return(0);
 }
