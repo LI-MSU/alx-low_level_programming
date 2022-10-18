@@ -1,17 +1,11 @@
 #include <stdio.h>
 
-/*
-*Yo this is about that
-*Might chekc this
-*/
+/* plplpl */
 int main(void)
-/*
-*Just do it
-*skdoksodk 
-*/
+/* sdsds */
 {
-  /*This one does its thing*/
+/* This one does its thing */
 
 puts("\"Programming is like building a multilingual puzzle");
-return(0);
+return (0);
 }
