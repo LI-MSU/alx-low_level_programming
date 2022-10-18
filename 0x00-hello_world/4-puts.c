@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-/*Yo this is about that
- *Might chekc this
- */
+/*
+*Yo this is about that
+*Might chekc this
+*/
 int main(void)
-/*Just do it
+/*
+*Just do it
 *skdoksodk 
 */
 {
