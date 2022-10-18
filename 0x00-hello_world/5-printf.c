@@ -1,9 +1,12 @@
-#include <stdio.h> /* need one here ? */
+#include <stdio.h>
+/**
+*main - Entry point
+*
+*Return: Always 0 (Success)
+*/
 
-int main(void) /* This is the maint thing */
-
+int main(void)
 {
-/* kkkk */
 printf("with proper grammar, but the outcome is a piece of art,");
 return (0);
 }
