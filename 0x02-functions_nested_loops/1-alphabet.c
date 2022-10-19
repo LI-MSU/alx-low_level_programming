@@ -7,8 +7,9 @@
 
 void print_alphabet(void)
 {
+	/* hell why are you like this betto */
 int a;
-for (a='a'; a<='z'; a++)
+for (a = 'a'; a <= 'z'; a++)
 {
 _putchar(a);
 }
