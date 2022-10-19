@@ -2,10 +2,10 @@
 /**
 * main- huuhuh
 * function: heuhrueh
+* print_alphabet_x10 : it will print the whole alphabeta ten times
 */
 
-void print_alphabet_x10(void)
-/* print_alphabet_x10 : the goat */
+void print_alphabet_x10(void);
 {
 	int b;
 	int x;
