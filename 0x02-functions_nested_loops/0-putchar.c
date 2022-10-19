@@ -1,6 +1,6 @@
 #include "main.h"
-/*
-* * Something about the main
+/**
+* Something about the main
 * To be returned
 */
 int main(void)
@@ -14,5 +14,5 @@ int main(void)
   _putchar('a');
   _putchar('r');
   _putchar('\n');
-return(0);
+return (0);
 }
