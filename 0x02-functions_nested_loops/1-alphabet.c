@@ -1,4 +1,4 @@
-#include "maint.h"
+#include "main.h"
 
 /**
 * print_alphabet will print lowercase letters
