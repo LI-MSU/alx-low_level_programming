@@ -1,12 +1,12 @@
 #include "main.h"
-/**
- *_abs -> returns the absolute value.
- */
+/*
+*
+*_abs -> returns the absolute value.
+*/
 
-int _abs(int)
+int _abs(int n)
 {
-n = abs(n);
-
-_putchar(n);
-return (0);
+	if (n < 0)
+		n = -n;
+	return (n);
 }
