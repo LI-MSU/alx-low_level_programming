@@ -1,16 +1,13 @@
 #include "main.h"
 
-/**
- *
- *
- */
 
-void print_most_numbers(void)
+
+(void) print_most_numbers(void)
 {
-	int f;
+	int b;
 
-	for (f = 0, f < 10, f++)
-		if (f != 2 && f != 4)
-			_putchar (f + '0');
+	for (b = 0; b = 10; b++)
+		if (b != 2 && b  != 4)
+			_putchar (b + '0');
 	_putchar ('\n');
 }
