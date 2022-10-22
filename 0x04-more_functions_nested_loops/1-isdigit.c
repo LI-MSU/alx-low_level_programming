@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * _isdigit - is  a function that prints either 1 or 0 depending on value of c
