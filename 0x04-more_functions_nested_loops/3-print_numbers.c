@@ -3,12 +3,11 @@
  *
  *
  */
-
 void print_numbers(void)
 {
-	int l;
-
-	for (l = 0; l <= 9; l++)
-		_putchar (l + '0');
-	_putchar ('\n');
+	int a;
+	
+	for (a = 0; a < 10; a++)
+		_putchar(a + '0');
+	_putchar('\n');
 }
