@@ -10,12 +10,8 @@
 
 void print_rev(char *s)
 {
-	int b = 0;
-	while (*(s + b) != '\0')
-	{
-		strrev(*s);
-		putchar(*(s + b));
-		b++;
-	}
+	int b = strlen(s);
+	while (b--)
+	putchar(*(s + b));
 	putchar(10);
 }
