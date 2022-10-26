@@ -6,7 +6,7 @@
  * @a: is a var replacing \n
  */
 
-void _pust(char *str)
+void _puts(char *str)
 {
 	int a = 0;
 	while (*(str  + a) != '\0')
