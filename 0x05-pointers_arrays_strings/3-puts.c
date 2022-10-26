@@ -1,16 +1,18 @@
 #include "main.h"
 
 /**
-  * _puts - Prints the string if it contains something +\0
-  * @str: is a string
-  * Return: void
-  */
+ * _puts - is in charge of printing a string
+ * @str: is a string
+ * @a: is a var replacing \n
+ */
 
-void _puts(char *str)
+void _pust(char *str)
 {
-	for (; *str != '\0'; str++)
+	int a = 0;
+	while (*(str  + a) != '\0')
 	{
-		_putchar(*str);
-	}
-	_putchar('\n');
+		putchar(*(str + a);
+				a++
+				}
+putchar (10);
 }
