@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - is a function that prints a string followed by a newline
+ * _puts - is function that increments str in order to print it
  * @str: is a pointer
  */
 
