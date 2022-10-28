@@ -9,6 +9,16 @@
 
 char *_strcat(char *dest, char *src)
 {
-	return(strcat (*dest,*src) + '\n');
+	int len1, len2, i;
+
+	len1 = strlen(*dest);
+	len2 = strlen(*src);
+
+	for (i = 0; i <= len1; i++)
+	{
+		*dest[len1 + i] = *src [i];
+	}
+
+	return (*dest);
 
 }
